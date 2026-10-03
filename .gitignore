@@ -1,0 +1,7 @@
+# kept on the author's machine only
+*.local.json
+local/
+
+__pycache__/
+*.pyc
+.DS_Store
